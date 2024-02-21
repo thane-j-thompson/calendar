@@ -22,7 +22,7 @@ namespace Calendar_Dotnet.Entities
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=34.123.144.175;Database=calendar;User Id=sqlserver;Password=Fireflydeveloper;TrustServerCertificate=True;");
+                optionsBuilder.UseSqlServer("Server=x;Database=y;User Id=z;Password=aa;TrustServerCertificate=True;");
             }
         }
 
